@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "swiper": "^12.0.2"
+  },
+  "name": "responsive-travel-website-3-main",
+  "version": "1.0.0",
+  "description": "travel agent",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiden",
+  "license": "ISC"
+}
